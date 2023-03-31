@@ -1,0 +1,43 @@
+body {
+    background-image: url('../css/pngtree-technology-data-line-dotted-line-image_18981.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:  top center;
+    height: 100%;
+    margin: 25px 0;
+    padding-left: 0px;
+    font-size: 25px; 
+}
+
+.cuadro{
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+    background-color: rgb(128, 204, 235);
+    border-radius: 100px;
+    border: 10px;
+    
+}
+
+
+table,
+th,
+td {
+    border: 1px solid rgb(118, 200, 221);
+}
+
+tr:hover {
+    background-color: rgb(62, 156, 233);
+}
+
+th {
+    background-color: rgb(53, 154, 221);
+    color: white;
+}
+
+button {
+    border-radius: 18px;
+    color: rgb(0, 0, 0);
+    background-color:rgb(54, 126, 209) ;
+    cursor: pointer;
+}
